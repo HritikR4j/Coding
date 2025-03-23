@@ -1,20 +1,45 @@
-👨‍💻 Hritik Raj - Aspiring Programmer 🌟
-Hello, World! 🌍 I'm Hritik Raj, a passionate learner and budding programmer exploring the exciting world of coding! 🚀 Here's a sneak peek into my journey so far:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hritik Raj - Aspiring Programmer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
 
-🚀 My Coding Arsenal
-🌐 HTML: Structuring the web, one tag at a time!
+        h1 {
+            font-size: 32px;
+            color: #333;
+        }
 
-🎨 CSS: Styling the web with cool designs and effects.
+        h2 {
+            font-size: 28px;
+            color: #555;
+        }
 
-⚡ JavaScript: Making websites interactive and fun!
-
-🐍 Python: Writing scripts and solving problems with elegance.
-
-🌱 Learning and Growing
-I'm on a mission to level up my skills and build awesome projects that make a difference. 🔥 Every day is a new opportunity to create and innovate!
-
-💡 Fun Fact About Me
-I believe in the magic of code ✨—turning ideas into reality with a few keystrokes. 🖥️
-
-✨ Let's Connect!
-Feel free to collaborate or share ideas with me as I continue my coding journey. Together, we can create something extraordinary! 💡💻
+        p {
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>👨‍💻 Hritik Raj - Aspiring Programmer 🌟</h1>
+    <p>Hello, World! 🌍 I'm Hritik Raj, a passionate learner and budding programmer exploring the exciting world of coding! 🚀 Here's a sneak peek into my journey so far:</p>
+    <h2>🚀 My Coding Arsenal</h2>
+    <p>🌐 HTML: Structuring the web, one tag at a time!</p>
+    <p>🎨 CSS: Styling the web with cool designs and effects.</p>
+    <p>⚡ JavaScript: Making websites interactive and fun!</p>
+    <p>🐍 Python: Writing scripts and solving problems with elegance.</p>
+    <h2>🌱 Learning and Growing</h2>
+    <p>I'm on a mission to level up my skills and build awesome projects that make a difference. 🔥 Every day is a new opportunity to create and innovate!</p>
+    <h2>💡 Fun Fact About Me</h2>
+    <p>I believe in the magic of code ✨—turning ideas into reality with a few keystrokes. 🖥️</p>
+    <h2>✨ Let's Connect!</h2>
+    <p>Feel free to collaborate or share ideas with me as I continue my coding journey. Together, we can create something extraordinary! 💡💻</p>
+</body>
+</html>
