@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hritik Raj - Aspiring Programmer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-
-        h1 {
-            font-size: 32px;
-            color: #333;
-        }
-
-        h2 {
-            font-size: 28px;
-            color: #555;
-        }
-
-        p {
-            font-size: 18px;
-            color: #666;
-        }
-    </style>
-</head>
 <body>
     <h1>👨‍💻 Hritik Raj - Aspiring Programmer 🌟</h1>
     <p>Hello, World! 🌍 I'm Hritik Raj, a passionate learner and budding programmer exploring the exciting world of coding! 🚀 Here's a sneak peek into my journey so far:</p>
@@ -42,4 +13,3 @@
     <h2>✨ Let's Connect!</h2>
     <p>Feel free to collaborate or share ideas with me as I continue my coding journey. Together, we can create something extraordinary! 💡💻</p>
 </body>
-</html>
